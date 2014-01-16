@@ -1,3 +1,7 @@
+* Binary (Tentative)
+
+https://www.dropbox.com/s/uammywfed6d2rgj/opener
+
 * AuMarketOpener
 
 au Marketのマイアプリ一覧を直接開きます
