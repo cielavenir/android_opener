@@ -17,7 +17,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		final Vibrator vibrator = (Vibrator) getSystemService(VIBRATOR_SERVICE);
-		final long[] pattern = {500, 1000};
+		final long[] pattern = {300, 1200};
 		vibrator.vibrate(pattern, 0);
 		BroadcastReceiver vibrateReceiver = new BroadcastReceiver(){
 			@Override
